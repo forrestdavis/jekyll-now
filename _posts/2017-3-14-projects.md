@@ -1,6 +1,7 @@
 ---
-layout: post
+layout: page
 title: Projects
+permalink: /Projects/
 ---
 
 ## Phon_Phon
