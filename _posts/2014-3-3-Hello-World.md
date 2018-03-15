@@ -3,11 +3,11 @@ layout: post
 title: Projects
 ---
 
-##Phon_Phon
+## Phon_Phon
 
-##TAG_Neural_Network
+## TAG_Neural_Network
 
-##UD_STAG
+## UD_STAG
 
-##SPE_Rule_Generator
+## SPE_Rule_Generator
 
