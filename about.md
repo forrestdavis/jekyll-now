@@ -11,8 +11,7 @@ My broader research interests are in learnability of linguistic systems. I aim t
 ### Fun Things
 
 I try to hike and rock climb as much as possible. I have a cat Figaro, who spends his days sitting on my keyboard, scratching
-my couch, and meowing for food. ![an image alt text]({{ site.baseurl }}/images/IMG_0760.PNG "an image title")<!-- .element height="50%" width="50%" -->
-
+my couch, and meowing for food.
 
 ### Contact me
 
