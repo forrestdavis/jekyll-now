@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 I am a Ph.D. student in the [Department of Linguisitics](https://linguistics.cornell.edu) at Cornell University.
-My other affiliations are with C.Psyd(https://vansky.github.io/cpsyd.html) at Cornell, the [Cornell Computational Linguistics Lab](http://conf.ling.cornell.edu/compling), the [Cornell NLP group]https://nlp.cornell.edu), and the [Cornell Phonetics Lab](http://conf.ling.cornell.edu/plab/). I recieved my B.A. in Computer Science and Mathematics from Columbia University. 
+My other affiliations are with [C.Psyd](https://vansky.github.io/cpsyd.html) at Cornell, the [Cornell Computational Linguistics Lab](http://conf.ling.cornell.edu/compling), the [Cornell NLP group]https://nlp.cornell.edu), and the [Cornell Phonetics Lab](http://conf.ling.cornell.edu/plab/). I recieved my B.A. in Computer Science and Mathematics from Columbia University. 
 
 
 I am interested in computational psycholinguistics. In particuluar, I want to understand the representational content of language and how language is processed incrementally. Within linguistics, I am interested in the interaction of levels of linguistic representation, such as the mapping of phonetics to phonology, the relationship between prosodic and morphological structure, and how pragmatics and discourse shape and influence syntactic representations. Within psycholinguistics and cognitive science, I am interested in event representaions and how linguistic structure follows from dynamic representations.
